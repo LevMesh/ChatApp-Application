@@ -9,7 +9,7 @@ Steps:
 bash run.sh
 ```
 
-2. open your brower with this link: http://localhost:5000
+2. open your brower with this link: http://localhost:5000 ***NOTE*** the website will be available after 1 minute.
 
 
 And you will see the application. you can change rooms by adding room number after the port like this http://localhost:5000/room-number
